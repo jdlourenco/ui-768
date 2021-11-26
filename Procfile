@@ -1,0 +1,1 @@
+web: sh setup.sh && make run_streamlit
